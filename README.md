@@ -23,8 +23,7 @@ Open a **New Issue** and paste the translated strings directly into the issue bo
 
 ### Option 3 — Contact the Author Directly
 
-You can also reach out on Bilibili: **@绿色歹人**  
-Leave a comment in the livestream or send a direct message.
+You can also reach out on Discord: **ex_wind**
 
 ---
 
